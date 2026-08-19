@@ -3,7 +3,7 @@ import { PageWrapper } from '../components/layout/PageWrapper';
 import { TechnicalHeader } from '../components/common/TechnicalHeader';
 import { Card } from '../components/common/Card';
 import { Badge } from '../components/common/Badge';
-import { Trophy, Calendar, MapPin, Users, Award, Zap } from 'lucide-react';
+import { Trophy, Calendar, MapPin, Users, Award } from 'lucide-react';
 import { apiService } from '../services/api';
 import { Achievement } from '../types';
 import { achievementsData } from '../data/achievements';
