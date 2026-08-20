@@ -3,7 +3,7 @@ import { TeamMember } from '../types';
 export const teamData: TeamMember[] = [
   {
     id: 'team-01',
-    name: 'Shreyas Tripathi',
+    name: 'SHREYAS TRIPATHI',
     role: 'Club President ',
     domain: 'Executive',
     batch: 'Batch 2023-2027',
@@ -15,7 +15,7 @@ export const teamData: TeamMember[] = [
   },
   { 
     id: 'team-02',
-    name: 'Mohit Insan',
+    name: 'MOHIT INSAN',
     role: 'Vice President & Systems Architect',
     domain: 'Executive',
     batch: 'Batch 2024-2028',
@@ -27,7 +27,7 @@ export const teamData: TeamMember[] = [
   },
   {
     id: 'team-03',
-    name: 'Dhruv Garg',
+    name: 'DHRUV GARG',
     role: 'Technical Head',
     domain: 'Electronics',
     batch: 'Batch 2023-2027',
@@ -39,10 +39,10 @@ export const teamData: TeamMember[] = [
   },
   {
     id: 'team-04',
-    name: 'Abhishek Dubey',
-    role: 'Mechanical & Fabrication Lead',
+    name: 'ABHISHEK DUBEY',
+    role: 'Event Management Head',
     domain: 'Event Management',
-    batch: 'Batch 2024-2028',
+    batch: 'Batch 2023-2027',
     branch: 'Mechanical Engineering',
     expertise: ['SolidWorks / Fusion 360', 'FEA & Stress Analysis', 'CNC Milling & Waterjet', 'Wedge Geometry Optimization'],
     photoUrl: '/images/team/abhishesk.jpeg',
@@ -51,7 +51,7 @@ export const teamData: TeamMember[] = [
   },
   {
     id: 'team-07',
-    name: 'Sandeep Choudhary',
+    name: 'SANDEEP CHOUDHARY',
     role: 'Public Relations & Design Lead',
     domain: 'Design & Media',
     batch: 'Batch 2023-2027',
@@ -64,7 +64,7 @@ export const teamData: TeamMember[] = [
   
   {
     id: 'team-06',
-    name: 'Jasmeen Kaur',
+    name: 'JASMEEN KAUR',
     role: 'Social Media & Event Management Lead',
     domain: 'Event Management',
     batch: 'Batch 2023-2027',
@@ -76,7 +76,7 @@ export const teamData: TeamMember[] = [
   },
   {
     id: 'team-05',
-    name: 'Pradeep Kumar Awasthi',
+    name: 'PRADEEP KUMAR AWASTHI',
     role: 'Web & Software Development Lead',
     domain: 'Software',
     batch: 'Batch 2024-2028',
@@ -88,7 +88,7 @@ export const teamData: TeamMember[] = [
   },
   {
     id: 'team-08',
-    name: 'Vishal',
+    name: 'VISHAL',
     role: 'Event Management Co-head',
     domain: 'Electronics',
     batch: 'Batch 2024-2028',

@@ -63,7 +63,7 @@ export const Navbar: React.FC = () => {
           </div>
           <div className="hidden sm:block">
             <div className="flex items-center gap-2 font-sans text-base font-bold tracking-wider text-white">
-              <span>RTIST</span>
+              <span>R-TIST</span>
               <span className="border border-rtist-accent/40 bg-rtist-accent/20 px-1.5 py-0.5 font-mono text-[10px] text-rtist-accent">
                 NITJ
               </span>

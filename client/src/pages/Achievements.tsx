@@ -20,13 +20,13 @@ export const Achievements: React.FC = () => {
   return (
     <PageWrapper
       title="National Participation"
-      description="RTIST's engagement with India's premier technical festivals and national-level robotics platforms, representing NIT Jalandhar across the collegiate engineering ecosystem."
+      description="R-TIST's engagement with India's premier technical festivals and national-level robotics platforms, representing NIT Jalandhar across the collegiate engineering ecosystem."
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
           label="Beyond Campus"
-          title="Rtist on the national robotics stage"
-          subtitle="From campus competitions to national-level technical festivals, RTIST has taken its engineering, robotics, and problem-solving skills beyond NIT Jalandhar, competing and learning alongside teams from premier institutes across India."
+          title="R-TIST ON THE NATIONAL ROBOTICS STAGE"
+          subtitle="From campus competitions to national-level technical festivals, R-TIST has taken its engineering, robotics, and problem-solving skills beyond NIT Jalandhar, competing and learning alongside teams from premier institutes across India."
         />
 
         {/* National Participation Grid */}

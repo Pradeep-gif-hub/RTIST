@@ -16,7 +16,7 @@ export const HeroSection: React.FC = () => {
           <div className="flex items-center gap-3">
             <span className="flex items-center gap-1.5 text-rtist-accent">
               <Terminal className="w-3.5 h-3.5" />
-              <span>RTIST THE ROBOTICS &amp; TECH</span>
+              <span>R-TIST THE ROBOTICS &amp; TECH</span>
             </span>
             <span className="text-rtist-border">|</span>
             <span>NIT JALANDHAR</span>

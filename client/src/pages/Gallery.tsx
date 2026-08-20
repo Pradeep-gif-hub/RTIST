@@ -60,8 +60,8 @@ export const Gallery: React.FC = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
-          label="Gallery Section R-Tist"
-          title="Images that turn into memories"
+          label="GALLERY SECTION R-TIST"
+          title="IMAGES THAT TURN INTO MEMORIES"
           subtitle="Real photographs from the NIT Jalandhar mechanical shop, electronics benches, and national tournament race tracks."
         />
 

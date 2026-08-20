@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
                 <Terminal className="w-6 h-6" />
               </div>
               <div>
-                <h3 className="text-xl font-bold tracking-wider text-white font-sans">RTIST</h3>
+                <h3 className="text-xl font-bold tracking-wider text-white font-sans">R-TIST</h3>
                 <p className="text-xs font-mono text-rtist-textMuted uppercase">
                   Robotics Club NIT
                 </p>
