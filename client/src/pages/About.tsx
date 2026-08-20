@@ -62,7 +62,7 @@ export const About: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
           label="ORIGINS &amp; ETHOS // NIT JALANDHAR"
-          title="ABOUT THE RTIST ROBOTICS WORKSHOP"
+          title="About the R-Tist Club"
           subtitle="We design, build, test, break, repair, and compete with high-speed RC vehicles, combat robots, and autonomous systems."
         />
 

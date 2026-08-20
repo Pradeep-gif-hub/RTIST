@@ -46,7 +46,7 @@ export const Events: React.FC = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
-          label="TRACK &amp; COMPETITIONS // SCHEDULE"
+          label="Build .. Test .. Race .."
           title="EVENTS, TIME TRIALS &amp; WORKSHOPS"
           subtitle="Explore upcoming sprint championships, hands-on embedded workshops, and past tournament podium finishes."
         />

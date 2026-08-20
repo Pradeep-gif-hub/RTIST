@@ -16,6 +16,19 @@
     font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   }
 
+  h1, h2, h3, h4, h5, h6 {
+    text-transform: lowercase;
+  }
+
+  h1::first-letter,
+  h2::first-letter,
+  h3::first-letter,
+  h4::first-letter,
+  h5::first-letter,
+  h6::first-letter {
+    text-transform: uppercase;
+  }
+
   /* Custom Tech Scrollbar */
   ::-webkit-scrollbar {
     width: 8px;

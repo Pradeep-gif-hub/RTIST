@@ -13,7 +13,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['RC Car', 'Carbon Fiber', 'Powertrain', 'Chassis Tuning'],
     technicalMetadata: {
       shutter: '1/500s @ f/2.8',
-      gear: '3K Carbon Chassis / 120A ESC',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'rc-apex-nitro-mk4'
     }
   },
@@ -29,7 +29,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['SumoBot', 'Titanium', 'CNC Machining', 'Combat Robotics'],
     technicalMetadata: {
       shutter: '1/250s @ f/4.0',
-      gear: 'Maxon RE-35 / Ti-6Al-4V',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'titan-3kg-sumobot'
     }
   },
@@ -45,7 +45,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['SLAM', 'ROS 2', 'LiDAR', 'Autonomous'],
     technicalMetadata: {
       shutter: '1/160s @ f/2.0',
-      gear: 'RPLiDAR A2 / Jetson Orin Nano',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'autonomous-ros2-lidar-rover'
     }
   },
@@ -61,7 +61,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['Electronics', 'PCB Design', 'Soldering', 'Firmware'],
     technicalMetadata: {
       shutter: '1/320s @ f/2.8',
-      gear: 'Hot Air Rework / Hakko FX-888D',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'high-speed-pid-line-tracer'
     }
   },
@@ -77,7 +77,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['Workshop', 'Recruitment', 'FreeRTOS', 'Students'],
     technicalMetadata: {
       shutter: '1/125s @ f/3.5',
-      gear: 'STM32 BluePill / Logic Analyzer',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'general'
     }
   },
@@ -93,7 +93,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['Robo Soccer', 'Omni Wheel', 'High Voltage Solenoid'],
     technicalMetadata: {
       shutter: '1/1000s @ f/2.0',
-      gear: 'ESP32 / 3-Wheel Kinematics',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'hexasoccer-striker-bot'
     }
   },
@@ -109,7 +109,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['NIT Jalandhar', 'Campus', 'Engineering'],
     technicalMetadata: {
       shutter: '1/640s @ f/5.6',
-      gear: 'Campus Aerial View',
+     gear: 'Clicked by R-Tist Club',
       projectRef: 'campus'
     }
   },
@@ -125,7 +125,7 @@ export const galleryData: GalleryItem[] = [
     tags: ['Championship', 'Podium', 'Teamwork', 'Trophy'],
     technicalMetadata: {
       shutter: '1/200s @ f/2.8',
-      gear: 'Podium Stage',
+      gear: 'Clicked by R-Tist Club',
       projectRef: 'achievements'
     }
   }

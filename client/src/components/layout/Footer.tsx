@@ -18,9 +18,8 @@ export const Footer: React.FC = () => {
             <span>BUILD. TEST. RACE. REPEAT.</span>
           </div>
           <div className="text-rtist-textMuted flex items-center gap-4 text-[11px]">
-            <span>NIT JALANDHAR ROBOTICS HUB</span>
-            <span className="text-rtist-border">|</span>
-            <span className="text-rtist-green">SYSTEM // ONLINE</span>
+            <span>RoboHub</span>
+            <span className="text-rtist-border">|</span>  
           </div>
         </div>
       </div>
@@ -36,7 +35,7 @@ export const Footer: React.FC = () => {
               <div>
                 <h3 className="text-xl font-bold tracking-wider text-white font-sans">RTIST</h3>
                 <p className="text-xs font-mono text-rtist-textMuted uppercase">
-                  Robotics & Technology Club — NIT Jalandhar
+                  Robotics Club NIT
                 </p>
               </div>
             </div>
@@ -45,12 +44,14 @@ export const Footer: React.FC = () => {
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-rtist-accent shrink-0 mt-0.5" />
                 <span>
-                  RTIST Workshop, Ground Floor, Department of Mechanical Engineering / Central Workshop, NIT Jalandhar, G.T. Road, Amritsar Bypass, Jalandhar, Punjab — 144008
+                  National Institute of Technology<br />
+                  Jalandhar, Punjab, India — 144011
                 </span>
+
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-rtist-cyan shrink-0" />
-                <span>rtist@[placeholder-nitj.ac.in]</span>
+                <span>robotics@nitj.ac.in</span>
               </div>
             </div>
           </div>

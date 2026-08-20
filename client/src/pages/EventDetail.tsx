@@ -351,7 +351,7 @@ export const EventDetail: React.FC = () => {
                 <p className="text-xs text-rtist-textMuted leading-relaxed">
                   {event.isPast
                     ? 'This competition has concluded. Check out our upcoming events calendar.'
-                    : 'The registration deadline for this event has passed or team capacity has been reached.'}
+                    : 'The registration deadline for this event has passed / team capacity has been reached or R-Tist will notify soon and updates will be shared.'}
                 </p>
                 <Button to="/events" variant="outline" size="sm" className="w-full">
                   VIEW OTHER EVENTS

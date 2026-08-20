@@ -64,7 +64,7 @@ export const Builds: React.FC = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
-          label="BUILDS // REPOSITORY"
+          label="Debug and Deploy"
           title="ROBOTS, RC CARS &amp; EMBEDDED SYSTEMS"
           subtitle="All machines designed, machined, soldered, and tuned in our NIT Jalandhar. Explore full CAD specs, schematics, BOM lists, and test telemetry."
         />

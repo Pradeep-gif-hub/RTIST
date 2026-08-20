@@ -57,7 +57,7 @@ export const Contact: React.FC = () => {
                     <div className="text-white font-bold uppercase mb-1">
                       OFFICIAL INBOX
                     </div>
-                    <p className="text-white">rtist@[placeholder-nitj.ac.in]</p>
+                    <p className="text-white">robotics@nitj.ac.in</p>
                     <p className="text-[11px] text-rtist-textMuted mt-0.5">
                       Response time: Within 24-48 hours during academic terms
                     </p>

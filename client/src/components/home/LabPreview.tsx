@@ -58,7 +58,7 @@ export const LabPreview: React.FC<LabPreviewProps> = ({ docs }) => {
                 size="md"
                 icon={<BookOpen className="w-4 h-4" />}
               >
-                OPEN RTIST LAB HUB
+                Open R-Tist RobuHub
               </Button>
               <span className="text-xs font-mono text-rtist-textMuted">
                 {docs.length} articles available with full code

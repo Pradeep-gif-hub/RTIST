@@ -45,8 +45,8 @@ export const Team: React.FC = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <TechnicalHeader
-          label="ROSTER // MEMBERS &amp; ADVISORS"
-          title="TEAM &amp; FACULTY COORDINATORS"
+          label="Faculty Members & Students"
+          title="TEAM & FACULTY COORDINATORS"
           subtitle="A multidisciplinary engineering crew spanning mechanical, electronics, embedded firmware, and competition pit management."
         />
 

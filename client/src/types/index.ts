@@ -72,6 +72,8 @@ export type EventCategory =
   | 'Line Follower' 
   | 'Maze Solver' 
   | 'Workshop' 
+  | 'Orientation' 
+  | 'Machine War' 
   | 'Other';
 
 export interface EventScheduleItem {
@@ -119,14 +121,20 @@ export interface Event {
 }
 
 export type DocCategory = 
-  | 'Electronics' 
   | 'Microcontrollers' 
   | 'Sensors' 
-  | 'Motors' 
+  | 'Motors & Actuators' 
   | 'Motor Drivers' 
+  | 'Communication & Wireless' 
+  | 'Power Systems' 
+  | 'Protocols' 
+  | 'Control Systems' 
+  | 'Electronics' 
   | 'Robotics' 
-  | 'Programming' 
-  | 'Advanced';
+  | 'ROS 2 & Advanced' 
+  | 'Computer Vision' 
+  | 'Mechanical Design' 
+  | 'Getting Started';
 
 export interface DocPinout {
   pin: string;
@@ -148,6 +156,7 @@ export interface DocArticle {
   lastUpdated: string;
   author: string;
   tags: string[];
+  imageUrl?: string;
   introduction: string;
   howItWorks: string;
   specifications: { label: string; value: string }[];
@@ -161,6 +170,7 @@ export interface DocArticle {
   applications: string[];
   troubleshooting: { issue: string; solution: string }[];
   relatedArticles?: { title: string; category: string; slug: string }[];
+  externalDocLinks?: { label: string; url: string }[];
 }
 
 export type TeamDomain = 

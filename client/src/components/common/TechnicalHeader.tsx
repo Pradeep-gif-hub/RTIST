@@ -41,7 +41,7 @@ export const TechnicalHeader: React.FC<TechnicalHeaderProps> = ({
         )}
       </div>
 
-      <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-white uppercase font-sans">
+      <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-white font-sans">
         {title}
       </h2>
 
