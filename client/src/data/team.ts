@@ -64,7 +64,7 @@ export const teamData: TeamMember[] = [
   
   {
     id: 'team-06',
-    name: 'JASMEEN KAUR',
+    name: 'JASMEEN',
     role: 'Social Media & Event Management Lead',
     domain: 'Event Management',
     batch: 'Batch 2023-2027',

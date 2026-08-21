@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, ArrowRight, ShieldCheck } from 'lucide-react';
 import { Button } from '../common/Button';
 
-const whatsappGroupUrl = 'https://chat.whatsapp.com/BqxuUKu2RPXJMMZEBIV7ot?s=cl&p=i&ilr=0';
+const whatsappGroupUrl = 'https://chat.whatsapp.com/L5Lyv7RW727CLRvWYAZKQX?s=sw&p=a&ilr=4';
 
 export const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
