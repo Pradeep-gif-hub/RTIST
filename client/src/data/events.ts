@@ -12,7 +12,7 @@ export const eventsData: Event[] = [
   time: '02:00 PM - 06:00 PM IST',
   venue: 'Snackers, Ground Floor, NIT Jalandhar',
 
-  isPast: false,
+  isPast: true,
   registrationOpen: true,
   registrationDeadline: '2026-08-22',
 
